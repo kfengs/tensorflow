@@ -1,0 +1,18 @@
+set up env for python
+
+anaconda3
+
+#update conda
+$conda update conda
+
+#check virtural env
+$conda env list
+
+#check python 
+$python --version
+
+#switch env
+$activate xxxxx
+
+$pip install numpy matplotlib sklearn pandas jupter
+
